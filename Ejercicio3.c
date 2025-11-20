@@ -1,5 +1,5 @@
 /*David Alejandro Martínez Vega L´Englisse
-tarea 2 ejercicio 2*/
+tarea 2 ejercicio 3*/
 
 /*En una Casa de Cabio necesitan construir un programa que dado como
 dato una cantidad expresada en d ́olares, convierta esa cantidad en pesos.
